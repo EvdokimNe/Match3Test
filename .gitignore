@@ -1,0 +1,89 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Ll]ocal[Cc]ache/
+[Uu]nityGenerated/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+.utmp/
+
+# Asset Store Tools (старый Asset Store)
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Asset[Ss]tore[Pp]ackages/
+
+# Автогенерируемые meta и служебные файлы
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
+
+# Addressables (собранные данные, генерируются при билде)
+[Aa]ssets/AddressableAssetsData/Android/
+[Aa]ssets/AddressableAssetsData/Android.meta
+[Aa]ssets/AddressableAssetsData/iOS/
+[Aa]ssets/AddressableAssetsData/iOS.meta
+[Aa]ssets/StreamingAssets/aa/
+[Aa]ssets/StreamingAssets/aa.meta
+
+# Rider persisted state (машинозависимый файл)
+ProjectSettings/RiderScriptEditorPersistedState.asset
+
+###############
+# IDE / редакторы
+###############
+# Visual Studio / MonoDevelop
+[Ee]xportedObj/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.svd
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.unityproj
+*.vsconfig
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+###############
+# ОС
+###############
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db.meta
+ehthumbs.db
+[Dd]esktop.ini
+
+###############
+# Специфика проекта
+###############
+Bin/
+[Aa]ssets/Save/
+[Aa]ssets/Save.meta
+[Aa]ssets/_Temp/
+[Aa]ssets/_Temp.meta
+[Aa]ssets/StreamingAssets.meta
+
+# GitLab CI: файл с результатами тестов
+tests.xml
+tests.xml.meta
