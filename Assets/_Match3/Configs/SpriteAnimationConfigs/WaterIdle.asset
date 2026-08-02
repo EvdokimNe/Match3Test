@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95cdd0606d7476a4296ecd9aa1f8e9e5, type: 3}
+  m_Name: WaterIdle
+  m_EditorClassIdentifier: Assembly-CSharp::Match3.Board.View.SpriteAnimation
+  _frames:
+  - {fileID: 21300000, guid: 0f4bc59391eb0ee4e8687c26797ff502, type: 3}
+  - {fileID: 21300000, guid: 53da1d7bf41a1f048b75f6bdb3ab3d0b, type: 3}
+  - {fileID: 21300000, guid: 28d051ae9400e7d47abd4e9958a151d6, type: 3}
+  - {fileID: 21300000, guid: 3a8fadc003629174ab9b6b4316ef4e9a, type: 3}
+  - {fileID: 21300000, guid: 97dedc09e658ea54a8874ecf006dc996, type: 3}
+  - {fileID: 21300000, guid: ac330c4aeee55c6458ea8d2f55fbec48, type: 3}
+  - {fileID: 21300000, guid: 1f3a55a24f7f8d840915e67ec9d6cbdd, type: 3}
+  - {fileID: 21300000, guid: 128c779c62f5d0b48bfad024c0aa2d6c, type: 3}
+  - {fileID: 21300000, guid: f296f41c23c535447b216781d540471c, type: 3}
+  - {fileID: 21300000, guid: fd099bdf585948c48a949069d02116dd, type: 3}
+  - {fileID: 21300000, guid: 87a2f37cd23531f4c846f78b36290475, type: 3}
+  - {fileID: 21300000, guid: dfedb2d03c1841e4283efaca2f75c97d, type: 3}
+  - {fileID: 21300000, guid: 59d94c63258d7cf4e90a17accaf767c6, type: 3}
+  - {fileID: 21300000, guid: 0f76a08778574aa41a79c2a2a9af5a83, type: 3}
+  - {fileID: 21300000, guid: eabc40e4284b5bd43a5afeea38340b5c, type: 3}
+  - {fileID: 21300000, guid: c8625c6e3c6ce7e4f978118aa736bcb5, type: 3}
+  - {fileID: 21300000, guid: 60ca90a4331aded40b8141b8312161ec, type: 3}

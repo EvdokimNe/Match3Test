@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95cdd0606d7476a4296ecd9aa1f8e9e5, type: 3}
+  m_Name: FireIdle
+  m_EditorClassIdentifier: Assembly-CSharp::Match3.Board.View.SpriteAnimation
+  _frames:
+  - {fileID: 21300000, guid: c18ab170f3f9cc547a4231d4f889f251, type: 3}
+  - {fileID: 21300000, guid: a0ad5d02903d63946b966527ccfa621b, type: 3}
+  - {fileID: 21300000, guid: 540273fa84a8bad4798b4ae553fc24ec, type: 3}
+  - {fileID: 21300000, guid: d2cac2accace49a4f885fc5db8085fa1, type: 3}
+  - {fileID: 21300000, guid: 53515162025d7b844975db1f25bea31f, type: 3}
+  - {fileID: 21300000, guid: f478636acccffa74ba901522f912b1c8, type: 3}
+  - {fileID: 21300000, guid: d9f73f6a2bfe6d346ade0e2840678df0, type: 3}
+  - {fileID: 21300000, guid: 242b09ffa8ba6af47b048f05f0d5d1b7, type: 3}
+  - {fileID: 21300000, guid: 22b7c2dec3f5e2841bea288126b52ef6, type: 3}
+  - {fileID: 21300000, guid: b8ebca62997aa224890d7665e2554d7e, type: 3}
+  - {fileID: 21300000, guid: af1bd48142cb95b46b8e7d2ede2077e4, type: 3}
+  - {fileID: 21300000, guid: 48593212cf598bb46a0f26e332dd9006, type: 3}
+  - {fileID: 21300000, guid: 002d9430acbb5124db416ce189ef1494, type: 3}
+  - {fileID: 21300000, guid: ecb4dce28fbd54c4ea319596d7ea4d54, type: 3}
+  - {fileID: 21300000, guid: a93337cda9ae5e842890e7f3c1a331b1, type: 3}
+  - {fileID: 21300000, guid: b7544a36aa60f2c4988dcfa1a0bcd0b9, type: 3}
+  - {fileID: 21300000, guid: 14244b2f392fb724bbcd51d7c08f804a, type: 3}
+  - {fileID: 21300000, guid: bfe0ba17778718042841697c29cc2893, type: 3}
+  - {fileID: 21300000, guid: 5b3cfc893e0d2624fb0b136ab17692b3, type: 3}
+  - {fileID: 21300000, guid: c961f92dfca14a344b3a2480d1d51d77, type: 3}
+  - {fileID: 21300000, guid: 23aeb90c35b405e4facd35bd7b5c4aed, type: 3}
+  - {fileID: 21300000, guid: 3f317099ac8f6a947b5b01c961488aa6, type: 3}
+  _fps: 12

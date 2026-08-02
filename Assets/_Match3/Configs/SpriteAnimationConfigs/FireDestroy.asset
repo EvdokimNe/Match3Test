@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95cdd0606d7476a4296ecd9aa1f8e9e5, type: 3}
+  m_Name: FireDestroy
+  m_EditorClassIdentifier: Assembly-CSharp::Match3.Board.View.SpriteAnimation
+  _frames:
+  - {fileID: 21300000, guid: f16760c460b4f9c47b59fe898ed52cd2, type: 3}
+  - {fileID: 21300000, guid: 8d2bbf6003aaf694e95f6791f8f5e0db, type: 3}
+  - {fileID: 21300000, guid: 3d1ab0cd311af014f98994f01f343891, type: 3}
+  - {fileID: 21300000, guid: 3d93cf5ee862f3a4e9535bb5a2629af6, type: 3}
+  - {fileID: 21300000, guid: 9893c25adf3779a43a1e5cdc975422ab, type: 3}
+  - {fileID: 21300000, guid: 9febf297ed688d94f87a3ac0b009a8f4, type: 3}
+  - {fileID: 21300000, guid: ab7d797b2e1042c409f52e5a70783a02, type: 3}
+  - {fileID: 21300000, guid: 098f8d9cf217d2542a3b5a77087f5e2c, type: 3}
+  - {fileID: 21300000, guid: 5fbe14b8fabc4ad48a9cfdf388f77157, type: 3}
+  - {fileID: 21300000, guid: 4c65bca9de02a0d4c8cef44bb4ef7089, type: 3}
+  - {fileID: 21300000, guid: e721b2526d80c7d429c7847c90e04741, type: 3}
+  - {fileID: 21300000, guid: 135c5372575a1944599940eaa4f02ce0, type: 3}
+  - {fileID: 21300000, guid: d5e38990e158eca429b184f044f54b08, type: 3}
+  - {fileID: 21300000, guid: b2584d0bd285b5b49b9f0579758700ac, type: 3}
+  - {fileID: 21300000, guid: c9cf8012c9735284d8f1c0b0cf1c37ec, type: 3}
+  - {fileID: 21300000, guid: 69e806c39695a6341b0a4eeb5f4c125a, type: 3}
+  - {fileID: 21300000, guid: 037332eab718ce545990f72d6a8a03b7, type: 3}
+  _fps: 12
