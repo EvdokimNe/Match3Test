@@ -15,9 +15,39 @@ MonoBehaviour:
   _width: 6
   _height: 6
   _entries:
-  - Pos: {x: 0, y: 0}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+  - Pos: {x: 1, y: 4}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 1, y: 3}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 2, y: 2}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 1, y: 1}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
   - Pos: {x: 1, y: 0}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 3, y: 1}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
   - Pos: {x: 3, y: 0}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 4, y: 0}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 4, y: 1}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 3, y: 2}
+    Block: {fileID: 11400000, guid: ba5db4a8a1602ed48ab189b750a8d73f, type: 2}
+  - Pos: {x: 4, y: 2}
+    Block: {fileID: 11400000, guid: ba5db4a8a1602ed48ab189b750a8d73f, type: 2}
+  - Pos: {x: 1, y: 2}
+    Block: {fileID: 11400000, guid: ba5db4a8a1602ed48ab189b750a8d73f, type: 2}
+  - Pos: {x: 2, y: 1}
+    Block: {fileID: 11400000, guid: ba5db4a8a1602ed48ab189b750a8d73f, type: 2}
+  - Pos: {x: 2, y: 0}
+    Block: {fileID: 11400000, guid: ba5db4a8a1602ed48ab189b750a8d73f, type: 2}
+  - Pos: {x: 2, y: 3}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 4, y: 3}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 2, y: 5}
+    Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+  - Pos: {x: 2, y: 4}
+    Block: {fileID: 11400000, guid: ba5db4a8a1602ed48ab189b750a8d73f, type: 2}

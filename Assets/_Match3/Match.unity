@@ -296,8 +296,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Match3.Board.Debugging.GridDebugView
   _overlayKey: 94
   _panelKey: 95
-  _panelVisible: 1
-  _overlayVisible: 1
+  _panelVisible: 0
+  _overlayVisible: 0
   _dirtyMarkSeconds: 0.6
 --- !u!114 &328018867
 MonoBehaviour:

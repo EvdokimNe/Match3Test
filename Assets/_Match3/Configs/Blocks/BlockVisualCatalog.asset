@@ -13,9 +13,18 @@ MonoBehaviour:
   m_Name: BlockVisualCatalog
   m_EditorClassIdentifier: Assembly-CSharp::Match3.Board.View.BlockVisualCatalog
   _entries:
-  - Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+  - Block: {fileID: 11400000, guid: 735e4026c629553498516d1fb080f63e, type: 2}
     Prefab: {fileID: 3528239634053206439, guid: 97c7f6de0ce632f45b9adbcfe74175ea, type: 3}
     DebugColor: {r: 1, g: 0.41822243, b: 0, a: 1}
   - Block: {fileID: 11400000, guid: a71daeb4c4ed30345a6325961dcec988, type: 2}
     Prefab: {fileID: 3804312183365200523, guid: 130e669dda781514dbb23bc7591bf17e, type: 3}
     DebugColor: {r: 0, g: 0.934247, b: 1, a: 1}
+  - Block: {fileID: 11400000, guid: 9d2ca60daa095ba4290fac360216a226, type: 2}
+    Prefab: {fileID: 3804312183365200523, guid: 745ab9d93275d8343bbc3d722fd26660, type: 3}
+    DebugColor: {r: 0, g: 0.43576694, b: 1, a: 1}
+  - Block: {fileID: 11400000, guid: ba5db4a8a1602ed48ab189b750a8d73f, type: 2}
+    Prefab: {fileID: 3528239634053206439, guid: 11e1e4d0f5158ed45a5371915786838d, type: 3}
+    DebugColor: {r: 1, g: 0.07060622, b: 0, a: 1}
+  - Block: {fileID: 11400000, guid: 436fd456f82f6104aa9847ec65b35b84, type: 2}
+    Prefab: {fileID: 3528239634053206439, guid: b6db4ab85cf7b7843919ffd5a151f9cc, type: 3}
+    DebugColor: {r: 1, g: 0.84931344, b: 0, a: 1}

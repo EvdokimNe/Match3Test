@@ -34,15 +34,15 @@ MonoBehaviour:
   - Pos: {x: 4, y: 1}
     Block: {fileID: 11400000, guid: a71daeb4c4ed30345a6325961dcec988, type: 2}
   - Pos: {x: 3, y: 2}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+    Block: {fileID: 11400000, guid: 735e4026c629553498516d1fb080f63e, type: 2}
   - Pos: {x: 4, y: 2}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+    Block: {fileID: 11400000, guid: 735e4026c629553498516d1fb080f63e, type: 2}
   - Pos: {x: 1, y: 2}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+    Block: {fileID: 11400000, guid: 735e4026c629553498516d1fb080f63e, type: 2}
   - Pos: {x: 2, y: 1}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+    Block: {fileID: 11400000, guid: 735e4026c629553498516d1fb080f63e, type: 2}
   - Pos: {x: 2, y: 0}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+    Block: {fileID: 11400000, guid: 735e4026c629553498516d1fb080f63e, type: 2}
   - Pos: {x: 2, y: 3}
     Block: {fileID: 11400000, guid: a71daeb4c4ed30345a6325961dcec988, type: 2}
   - Pos: {x: 4, y: 3}
@@ -50,4 +50,4 @@ MonoBehaviour:
   - Pos: {x: 2, y: 5}
     Block: {fileID: 11400000, guid: a71daeb4c4ed30345a6325961dcec988, type: 2}
   - Pos: {x: 2, y: 4}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
+    Block: {fileID: 11400000, guid: 735e4026c629553498516d1fb080f63e, type: 2}
