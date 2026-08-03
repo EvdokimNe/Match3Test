@@ -10,20 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b34d4833203355e4bbff50828ccd6c97, type: 3}
-  m_Name: Level_1
+  m_Name: Level_4
   m_EditorClassIdentifier: Assembly-CSharp::Match3.Configs.LevelConfig
-  _width: 7
-  _height: 2
+  _width: 6
+  _height: 6
   _entries:
-  - Pos: {x: 1, y: 1}
-    Block: {fileID: 11400000, guid: a71daeb4c4ed30345a6325961dcec988, type: 2}
+  - Pos: {x: 0, y: 0}
+    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
   - Pos: {x: 1, y: 0}
-    Block: {fileID: 11400000, guid: a71daeb4c4ed30345a6325961dcec988, type: 2}
-  - Pos: {x: 3, y: 1}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
-  - Pos: {x: 4, y: 0}
-    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
-  - Pos: {x: 5, y: 0}
     Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}
   - Pos: {x: 3, y: 0}
-    Block: {fileID: 11400000, guid: a71daeb4c4ed30345a6325961dcec988, type: 2}
+    Block: {fileID: 11400000, guid: 3cb76184f44435e4d86f70c6f458140b, type: 2}

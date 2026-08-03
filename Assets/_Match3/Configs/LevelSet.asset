@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: LevelSet
   m_EditorClassIdentifier: Assembly-CSharp::Match3.Configs.LevelSetConfig
   _levels:
-  - {fileID: 11400000, guid: a02b138f13a495546a5d2bae02570d15, type: 2}
   - {fileID: 11400000, guid: f075b3ac1574d3442b4f54ea6e532920, type: 2}
+  - {fileID: 11400000, guid: a02b138f13a495546a5d2bae02570d15, type: 2}
+  - {fileID: 11400000, guid: 4a4f26a566ee3c4428097d800e2c315a, type: 2}
+  - {fileID: 11400000, guid: 772e99f0ed7c2ed428c58cf11ea84914, type: 2}
