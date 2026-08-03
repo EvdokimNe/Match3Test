@@ -1,4 +1,5 @@
 # Match-3
+ [ARCHITECTURE.md](ARCHITECTURE.md) - документ с опиаснием архитектуры
 
 # Фокус проекта
 
