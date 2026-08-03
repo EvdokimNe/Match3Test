@@ -8,7 +8,7 @@ namespace Match3.Board.Input
         public static bool TryGetPosition(out Vector2 position)
         {
             var touch = Touchscreen.current;
-            if (touch != null && touch.primaryTouch.press.isPressed)
+            if (touch != null && (touch.primaryTouch.press.isPressed || touch.primaryTouch.press.wasReleasedThisFrame))
             {
                 position = touch.primaryTouch.position.ReadValue();
                 return true;
