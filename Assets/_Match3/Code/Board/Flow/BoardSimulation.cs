@@ -70,6 +70,9 @@ namespace Match3.Board.Flow
 
             ProcessQueuedEvents();
             ApplyRequestedMove();
+            
+            if (_operations.HasFalls())
+                return BoardTickResult.InProgress;
 
             _destruction.ResolveDirty();
 

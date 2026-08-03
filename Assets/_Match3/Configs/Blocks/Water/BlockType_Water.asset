@@ -12,24 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37479540c612a0843885a64eb6303cda, type: 3}
   m_Name: BlockType_Water
   m_EditorClassIdentifier: Assembly-CSharp::Match3.Configs.BlockTypeConfig
-  _typeId: fire
-  _debugColor: {r: 1, g: 0, b: 0, a: 1}
-  _colorLogic:
-    rid: 4747338957160710251
+  _matchLogic:
+    rid: 9021034482223546369
   _trigger:
     rid: 4747338957160710252
   _expansion:
-    rid: 4747338957160710261
+    rid: 9021034482223546444
   references:
     version: 2
     RefIds:
-    - rid: 4747338957160710251
-      type: {class: SingleColorLogic, ns: Match3.Configs, asm: Assembly-CSharp}
-      data:
-        Color: 0
     - rid: 4747338957160710252
       type: {class: LineTrigger, ns: Match3.Board.Matching, asm: Assembly-CSharp}
       data: 
-    - rid: 4747338957160710261
-      type: {class: NoExpansion, ns: Match3.Board.Matching, asm: Assembly-CSharp}
+    - rid: 9021034482223546369
+      type: {class: EqualsTypeMatchLogic, ns: Match3.Configs, asm: Assembly-CSharp}
+      data: 
+    - rid: 9021034482223546444
+      type: {class: FirstOrderNeighbors, ns: Match3.Board.Matching, asm: Assembly-CSharp}
       data: 

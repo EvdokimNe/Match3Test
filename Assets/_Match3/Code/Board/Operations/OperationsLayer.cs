@@ -121,6 +121,17 @@ namespace Match3.Board.Operations
             _board.Claim(cell, blockId, FallerSides);
             return op;
         }
+        
+        public bool HasFalls()
+        {
+            for (var i = 0; i < _active.Count; i++)
+            {
+                if (_active[i].Type == OpType.Fall)
+                    return true;
+            }
+        
+            return false;
+        }
 
         public bool HasStaticObstacle(Vector2Int pos)
         {

@@ -29,8 +29,8 @@ namespace Match3.Board.Debugging
         [SerializeField] private Key _overlayKey = Key.F1;
         [Tooltip("Панель целиком. Выключенная не рисует ничего и не стоит ни одного дроукола")]
         [SerializeField] private Key _panelKey = Key.F2;
-        [SerializeField] private bool _panelVisible = true;
-        [SerializeField] private bool _overlayVisible = true;
+        [SerializeField] private bool _panelVisible;
+        [SerializeField] private bool _overlayVisible;
         [SerializeField] private float _dirtyMarkSeconds = 0.6f;
 
         private readonly List<DirtyMark> _dirtyMarks = new(32);
